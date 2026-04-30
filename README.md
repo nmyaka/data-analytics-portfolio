@@ -4,4 +4,4 @@
 
 ### 1. Sales Dashboard
 - Power BI dashboard analyzing sales trends
-- [View Project](./sales-dashboard)
+- [View Project](./Sales_Dashboard)
